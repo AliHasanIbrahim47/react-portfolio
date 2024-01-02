@@ -60,7 +60,7 @@ export default function Home() {
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.facebook.com/profile.php?id=100004743640585"><AiFillFacebook /></a>
               <a href="https://www.instagram.com/ali_h_ibrahim23/"><AiFillInstagram /></a>
-              <a href="https://www.linkedin.com/in/ali-ibrahima9a915218"><AiFillLinkedin /></a>
+              <a href="https://www.linkedin.com/in/ali-ibrahim-a9a915218"><AiFillLinkedin /></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               <Image src={ali} layout="fill" objectFit="cover" />
